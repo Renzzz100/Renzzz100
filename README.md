@@ -1,11 +1,12 @@
 # Hi there, I'm Syahrendra Hamzah Putra! 👋  
 
 🎯 Ingin Menjadi Backend Developer  
+🏫 SE Student At State Vocational High School 1 Jakarta
 
 ---
 
 ## 🌟 About Me  
-- 🏫 SE Student At State Vocational High School 1 Jakarta
+- <iframe src="https://giphy.com/embed/tHIRLHtNwxpjIFqPdV" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justin-raccoon-pedro-tHIRLHtNwxpjIFqPdV">via GIPHY</a></p>
 
 ---
 
