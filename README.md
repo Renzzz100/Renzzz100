@@ -1,11 +1,34 @@
-<h1 align="center">Hi 👋, I'm Syahrendra Hamzah Putra</h1>
-<h3 align="center">Saya Seorang Siswa SMK Dari Jurusan RPL</h3>
+# Hi there, I'm [Your Name]! 👋  
 
-- 🌱 I’m currently learning **Node JS**
+🎯 Backend Developer | 🎮 Story-Driven Games Enthusiast | 🎵 Music Lover  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🌟 About Me  
+- 🌱 Learning **Node.js** and **Go** for backend development.  
+- 🎮 Gaming is my passion, and I love story-rich experiences.  
+- 🎵 Currently listening to **The 1975**.  
+
+---
+
+## 🛠️ Tech Stack  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+
+---
+
+## 🔧 Projects  
+- [🎶 Music Explorer](https://github.com/YourUsername/music-explorer): Explore my music tastes.  
+- [⚙️ Portfolio Website](https://github.com/YourUsername/portfolio-website): My personal website.  
+
+---
+
+## 📫 Contact Me  
+- Email: yourname@example.com  
+- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourprofile)  
